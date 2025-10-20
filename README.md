@@ -3,7 +3,9 @@ The scripts include initial analysis such as comparison of alpha and beta divers
 The second script includes a randomly subsampled and repeated machine learning analysis of the microbiome profiles along with the metadata from the variables.
 This is repeated post variable selection in order to reduce the noise in the models and obtain the most effective model.
 
-/n
+
+The study was conducted at Center for Translation Microbiome Research at Karolinska Institutet.
+
 
 Preterm birth remains the leading cause of neonatal morbidity and mortality globally,
 with rates staying unchanged despite advances in obstetric and neonatal care.
